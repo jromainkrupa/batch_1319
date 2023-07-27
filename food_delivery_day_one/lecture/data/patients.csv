@@ -1,0 +1,4 @@
+id,name,cured,room_id
+1,Hadrien,false,1
+2,Camelia,false,2
+3,Sarah,true,1
